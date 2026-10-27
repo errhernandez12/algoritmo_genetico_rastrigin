@@ -1,0 +1,20 @@
+# Ejecutables
+ag
+*.out
+*.exe
+a.out
+
+# Objetos y archivos intermedios
+*.o
+*.obj
+*.d
+
+# Archivos comprimidos
+*.zip
+
+# Editores y sistema
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
